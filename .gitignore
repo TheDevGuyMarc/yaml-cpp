@@ -1,3 +1,16 @@
 build/
 /tags
 /bazel-*
+
+bin/
+bin-int/
+
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.opendb
+*.VC.db
